@@ -2,3 +2,10 @@ fisier de test
 exemplu commit
 git commit -m "my message"
 
+browser automation
+web automation
+
+test modification
+
+new repository created 
+
